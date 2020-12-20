@@ -21,6 +21,8 @@ public class JavagitTest {
     
         System.out.println("Hello, World!"); 
         System.out.println("amina"); 
+                System.out.println("123"); 
+
         
     }
 
